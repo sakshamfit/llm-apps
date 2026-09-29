@@ -1,3 +1,20 @@
+# ---------------------------------------------------------------------------
+# RELOCATED GitHub Actions workflow.
+#
+# This file came from upstream shubhamsaboo/awesome-llm-apps at
+# .github/workflows/skill-evals.yml. It is stored here because the GitHub App
+# used to import this repository does not hold the `workflows` permission, so it
+# cannot create files under .github/workflows/.
+#
+# TO ENABLE: move this file to .github/workflows/skill-evals.yml (via the GitHub
+# web UI, or a local push with a token that has the `workflows` scope). The body
+# below is byte-identical to upstream apart from this comment header, so no other
+# edits are needed.
+#
+# Dropped entirely: .github/workflows/claude.yml (upstream's @claude PR bot).
+# It requires upstream's own ANTHROPIC_API_KEY secret and is inert in a fork.
+# ---------------------------------------------------------------------------
+
 name: skill-evals
 
 on:
