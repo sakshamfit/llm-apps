@@ -15,6 +15,13 @@ Works with Claude, Gemini, GPT, DeepSeek, Llama, Qwen and other open-source mode
   <img src="https://trendshift.io/api/badge/repositories/9876" width="220" alt="Featured on Trendshift as the #1 repository of the day">
 </a>
 
+<p>
+  <a href="https://github.com/sakshamfit/llm-apps/stargazers"><img src="https://img.shields.io/github/stars/sakshamfit/llm-apps?style=social" alt="GitHub stars"/></a>
+  <a href="https://github.com/sakshamfit/llm-apps/network/members"><img src="https://img.shields.io/github/forks/sakshamfit/llm-apps?style=social" alt="GitHub forks"/></a>
+  <a href="https://github.com/sakshamfit/llm-apps/commits/main"><img src="https://img.shields.io/github/last-commit/sakshamfit/llm-apps" alt="Last commit"/></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/sakshamfit/llm-apps" alt="License"/></a>
+</p>
+
 <br>
 
 </div>
@@ -303,20 +310,8 @@ streamlit run travel_agent.py
 
 <div align="center">
 
-⭐ **[Star the repo](https://github.com/Shubhamsaboo/awesome-llm-apps/stargazers)** to get notified when new templates drop.
+⭐ **[Star this repo](https://github.com/sakshamfit/llm-apps/stargazers)** to get notified when new templates drop.
 
-<sub>
-<!-- Keep these links. Translations will automatically update with the README. -->
-<a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=de">Deutsch</a> ·
-<a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=es">Español</a> ·
-<a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=fr">français</a> ·
-<a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=ja">日本語</a> ·
-<a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=ko">한국어</a> ·
-<a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=pt">Português</a> ·
-<a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=ru">Русский</a> ·
-<a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=zh">中文</a>
-</sub>
-
-<sub>Apache-2.0 · See <a href="LICENSE">LICENSE</a> · Fork it, ship it, sell it.</sub>
+<sub>🔄 Auto-syncs daily from <a href="https://github.com/shubhamsaboo/awesome-llm-apps">shubhamsaboo/awesome-llm-apps</a> · Apache-2.0 · See <a href="LICENSE">LICENSE</a> · Fork it, ship it, sell it.</sub>
 
 </div>
